@@ -1,0 +1,1 @@
+https://github.com/wapanese/jpdb-kanji-data/releases
